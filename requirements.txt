@@ -1,11 +1,9 @@
 flask
 gunicorn 
-sqlite3
 Flask
 render_template
 url_for
 redirect
 request
 session
-g
-flash
+
