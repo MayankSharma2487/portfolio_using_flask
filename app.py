@@ -1,6 +1,6 @@
 from flask import Flask,render_template,url_for,redirect,request,session,g,flash
 from flask import g
-from database import get_database
+#from database import get_database
 import sqlite3
 
 app = Flask(__name__)
